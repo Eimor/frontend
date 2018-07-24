@@ -1,0 +1,12 @@
+body {
+    padding-top: 3.5rem;
+  }
+
+#tarjeta {
+  margin: 10px;
+  padding: 10px 10px 10px 10px;
+  background-color:rgb(247, 247, 247);
+  border-width: 1px;
+  border-style: ridge;
+  float: left;
+}
